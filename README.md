@@ -2,13 +2,13 @@
 
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 # MicroVaulr
-A headless ERC-4626 tokenized vault engine for microlending built on the Stellar network.
+A headless ERC-4626 tokenized vault engine for micro-lending built on the Stellar network.
 
 ## Technical Architecture
 A high-level technical architecture of the engine implementation:
 ![ERC4626-Stellar](https://github.com/user-attachments/assets/15df2664-5089-4b9b-a14e-e6e0b16da69d)
 
-## Microlending Journey
+## Micro-lending Journey
 A successful microlending journey:
 ![Lending Flow](https://github.com/user-attachments/assets/48ed6178-1a63-49bd-bb53-a1eb7bb47808)
 
