@@ -12,6 +12,9 @@ A high-level technical architecture of the engine implementation:
 A successful microlending journey:
 ![Lending Flow](https://github.com/user-attachments/assets/48ed6178-1a63-49bd-bb53-a1eb7bb47808)
 
+## Proposal
+https://drive.google.com/file/d/1QuXNs0zOvAyJ150t5FPxwtkwUFrjKxBO/view?usp=drive_link
+
 ## Contributing
 
 Contributions are welcome! We are excited to see this project grow with help from the community.
